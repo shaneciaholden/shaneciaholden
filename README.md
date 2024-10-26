@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello ~
+I'm Sha'Necia !  currently a student working on her bachelor's degree in artificial Intelligence and I'm currently based in Houston, Tx .
 
-<!--
-**shaneciaholden/shaneciaholden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me: Born and raised in TX! My interest ranges from technology , video games, movies , writing and drawing! I am passionate about science and art!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun facts:
+My high school band Attica was signed to an indie record label.
+I am a HUGE fan of simulation games ! Rimworld being my current favorite 
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@shanholdenhd76058/30-nites-of-code)  
+  ![@shanholdenhd76058 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=shanholdenhd76058)
