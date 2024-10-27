@@ -5,7 +5,6 @@ About me: Born and raised in TX! My interest ranges from technology , video game
 
 
 Fun facts:
-My high school band Attica was signed to an indie record label.
 I am a HUGE fan of simulation games ! Rimworld being my current favorite 
 
 ## #30NitesOfCode:
