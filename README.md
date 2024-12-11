@@ -5,7 +5,9 @@ About me: Born and raised in TX! My interest ranges from technology , video game
 
 
 Fun facts:
-I am a HUGE fan of simulation games ! Rimworld being my current favorite 
+I am a HUGE fan of simulation games ! Rimworld being my current favorite game. 
+My favorite movies are Fantastic Mr.Fox, dusk til dawn, Spirited Away. (I have WAY more but these were my first thoughts.)
+My favorite comfort shows are : Saiki K, the oblongs and inside job.
 
 
 Hello! I'm Sha'Necia , Aspiring AI and Robotics Engineer with a passion for innovation at the intersection of technology and human-centered design. Currently pursuing a bachelor's in applied technology, with a focus on artificial intelligence, robotics, and learning game development on my own. I thrive on integrating diverse skills, from programming and web/app development to 3D art and low-poly modeling, to create meaningful, engaging experiences.
