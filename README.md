@@ -6,7 +6,10 @@ About me: Born and raised in TX! My interest ranges from technology , video game
 
 Fun facts:
 I am a HUGE fan of simulation games ! Rimworld being my current favorite game. 
+
 My favorite movies are Fantastic Mr.Fox, dusk til dawn, Spirited Away. (I have WAY more but these were my first thoughts.)
+
+
 My favorite comfort shows are : Saiki K, the oblongs and inside job.
 
 
